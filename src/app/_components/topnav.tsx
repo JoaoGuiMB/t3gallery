@@ -7,7 +7,7 @@ export default function TopNav() {
   const router = useRouter();
 
   return (
-    <nav className="flex w-full items-center justify-between border-b p-6 text-2xl font-bold">
+    <nav className="flex w-full items-center justify-between border-b p-6 font-bold">
       <div>Gallery</div>
       <div className="flex flex-row">
         <SignedOut>
