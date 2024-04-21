@@ -7,8 +7,9 @@
 - [x] Tidy up build process
 - [x] Settup database
 - [x] Attach database to UI
-- [ ] Add authentication
+- [x] Add authentication
 - [ ] Add image upload
+- [ ] "taint" (server-only)
 - [ ] Error managment (w/ Sentry)
 - [ ] Routing/image page (parallel route)
 - [ ] Delete button (w/ server actions)
