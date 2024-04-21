@@ -8,9 +8,9 @@
 - [x] Settup database
 - [x] Attach database to UI
 - [x] Add authentication
-- [ ] Add image upload
-- [ ] "taint" (server-only)
-- [ ] Error managment (w/ Sentry)
+- [x] Add image upload
+- [x] "taint" (server-only)
+- [x] Error managment (w/ Sentry)
 - [ ] Routing/image page (parallel route)
 - [ ] Delete button (w/ server actions)
 - [ ] Analytics
