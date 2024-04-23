@@ -12,6 +12,7 @@
 - [x] "taint" (server-only)
 - [x] Error managment (w/ Sentry)
 - [x] Routing/image page (parallel route)
+- [x] Add shadui (toast)
 - [ ] Delete button (w/ server actions)
 - [ ] Analytics
 - [ ] Ratelimiting (upstash)
