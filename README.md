@@ -15,4 +15,4 @@
 - [x] Add shadui (toast)
 - [x] Delete button (w/ server actions)
 - [x] Analytics
-- [ ] Ratelimiting (upstash)
+- [x] Ratelimiting (upstash)
