@@ -87,6 +87,11 @@ export default function SimpleUploadButton() {
           { duration: 100 * 1000, id: "upload-begin" },
         );
       },
+      onUploadError(err) {
+        toast.dismiss("upload-begin");
+        toast("Upload failed", { duration: 5000 });
+        console.error(err);
+      },
       onClientUploadComplete() {
         toast.dismiss("upload-begin");
         toast("Upload complete!", { duration: 5000 });
